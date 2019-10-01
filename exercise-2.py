@@ -18,3 +18,4 @@ class Aircraft:
     def move_down(self):
         print('moved down')
         self.y = self.y - self.ac
+obj= Aircraft()
