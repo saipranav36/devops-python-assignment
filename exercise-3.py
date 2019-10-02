@@ -19,3 +19,15 @@ class Aircraft:
         #print('moved down . . .')
         self.y = self.y - self.ac
 
+instances = ["instance0", "instance1", "instance2", "instance3", "instance4"]
+
+k = len(instances)
+
+for i in range(k):
+	#instance creation
+    instances[i]=Aircraft()
+    print('Creating New Aircraft Object:{}'.format(i))
+    print('New Aircraft Object Has Just Been Initialized:{}'.format(i))
+    print('Initial X-Coord: {}'.format(instances[i].x))
+    print('Initial Y-Coord: {}'.format(instances[i].y))
+    
