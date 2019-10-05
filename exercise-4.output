@@ -1,0 +1,95 @@
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord: 0
+Initial Y-Coord: 0
+moved right . . .
+moved right . . .
+moved up . . .
+moved right . . .
+moved left . . .
+moved up . . .
+moved up . . .
+moved down . . .
+moved up . . .
+moved down . . .
+moved up . . .
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord: 3
+Initial Y-Coord: 6
+moved right . . .
+moved right . . .
+moved up . . .
+moved right . . .
+moved left . . .
+moved up . . .
+moved up . . .
+moved down . . .
+moved up . . .
+moved down . . .
+moved up . . .
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord: 6
+Initial Y-Coord: 12
+moved right . . .
+moved right . . .
+moved up . . .
+moved right . . .
+moved left . . .
+moved up . . .
+moved up . . .
+moved down . . .
+moved up . . .
+moved down . . .
+moved up . . .
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord: 9
+Initial Y-Coord: 18
+moved right . . .
+moved right . . .
+moved up . . .
+moved right . . .
+moved left . . .
+moved up . . .
+moved up . . .
+moved down . . .
+moved up . . .
+moved down . . .
+moved up . . .
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord: 12
+Initial Y-Coord: 24
+moved right . . .
+moved right . . .
+moved up . . .
+moved right . . .
+moved left . . .
+moved up . . .
+moved up . . .
+moved down . . .
+moved up . . .
+moved down . . .
+moved up . . .
+
+Aircraft [ 0 ]
+Final X-Coord: 2
+Final Y-Coord: 3
+
+Aircraft [ 1 ]
+Final X-Coord: 5
+Final Y-Coord: 9
+
+Aircraft [ 2 ]
+Final X-Coord: 8
+Final Y-Coord: 15
+
+Aircraft [ 3 ]
+Final X-Coord: 11
+Final Y-Coord: 21
+
+Aircraft [ 4 ]
+Final X-Coord: 14
+Final Y-Coord: 27
